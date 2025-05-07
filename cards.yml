@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to SampleBank cards related local APIs "
+  contactDetails:
+    name: "Ahmet Yeniçeri - Developer"
+    email: "ahmet@samplebank.com"
+  onCallSupport:
+    - (532) 453-7472
+    - (532) 453-7473

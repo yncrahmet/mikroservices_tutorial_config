@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+loans:
+  message: "Welcome to SampleBank loans related local APIs "
+  contactDetails:
+    name: "Ahmet Yeniçeri - Developer"
+    email: "ahmet@samplebank.com"
+  onCallSupport:
+    - (532) 453-7472
+    - (532) 453-7473

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to SampleBank cards related prod APIs "
+  contactDetails:
+    name: "Ali Veli - Product Owner"
+    email: "ali@samplebank.com"
+  onCallSupport:
+    - (543) 653-6212
+    - (543) 653-6213

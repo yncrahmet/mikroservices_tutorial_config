@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to SampleBank loans related QA APIs "
+  contactDetails:
+    name: "Mehmet Test - QA Lead"
+    email: "mehmet@samplebank.com"
+  onCallSupport:
+    - (562) 710-9091
+    - (562) 710-9092
