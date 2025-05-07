@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SampleBank accounts related prod APIs "
   contactDetails:
     name: "Ahmet Yeniçeri - Product Owner"
-    email: "ahmet@samplebank.com"
+    email: "{cipher}d39b9f28c6b4794b3161cd8f237cab14aaf972f248aa4a9843fef5cd51bcfe40fadeb19a0a33e055524f470050050aac"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
