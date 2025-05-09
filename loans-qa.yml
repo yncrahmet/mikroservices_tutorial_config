@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Welcome to SampleBank loans related QA APIs "
+  message: "Welcome to SampleBank loans related qa APIs "
   contactDetails:
     name: "Mehmet Test - QA Lead"
     email: "mehmet@samplebank.com"
