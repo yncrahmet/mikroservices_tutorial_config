@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to SampleBank cards related prod APIs "
+  message: "Welcome to SampleBank cards related production APIs "
   contactDetails:
     name: "Ali Veli - Product Owner"
     email: "ali@samplebank.com"
