@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SampleBank accounts related docker APIs "
+  message: "Welcome to SampleBank accounts related local APIs "
   contactDetails:
     name: "Ahmet Yeniçeri - Developer"
     email: "ahmet@samplebank.com"
